@@ -1,21 +1,24 @@
 {
   "ascii": [
-    "███████╗██╗  ██╗███████╗██╗     ██╗",
-    "██╔════╝██║  ██║██╔════╝██║     ██║",
-    "███████╗███████║█████╗  ██║     ██║",
-    "╚════██║██╔══██║██╔══╝  ██║     ██║",
-    "███████║██║  ██║███████╗███████╗███████╗",
-    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
+    "     ██╗███████╗███████╗████████╗",
+    "     ██║██╔════╝██╔════╝╚══██╔══╝",
+    "     ██║███████╗███████╗   ██║   ",
+    "██   ██║██╔═══╝║██╔═══╝    ██║   ",
+    "╚█████╔╝███████║███████╗   ██║   ",
+    " ╚════╝ ╚══════╝╚══════╝   ╚═╝   "
   ],
-  "title": "WebShell",
-  "username": "visitor",
-  "hostname": "webshell",
-  "password": "050823",
+
+
+
+  "title": "Jeet's Resume",
+  "username": "you",
+  "hostname": "JB", 
+  "password": "cutie",
   "repoLink": "https://github.com/nasan016/webshell",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
-    "linkedin": "you"
+    "email": "jeetbhatkar@gmail.com",
+    "github": "https://github.com/jeetbhatkar2004",
+    "linkedin": "https://www.linkedin.com/in/jeetbhatkar/"
   },
   "aboutGreeting": "Hi stranger. Welcome to WebShell.",
   "projects": [
