@@ -12,7 +12,7 @@
 
   "title": "Jeet's Resume",
   "username": "you",
-  "hostname": "JB", 
+  "hostname": "EARTHx64", 
   "password": "cutie",
   "repoLink": "https://github.com/jeetbhatkar2004/ShellPortfolio",
   "social": {
@@ -28,9 +28,14 @@
       "https://github.com/jeetbhatkar2004/Visualizer"
     ],
     [
-      "Modelling Options",
+      "Stock Options",
       "C++ implementation of pricing european stock options   ",
       "https://github.com/jeetbhatkar2004/OptionsPricing"
+    ],
+    [
+      "Proxy Cache",
+      "HTTPS proxy cache server in C++",
+      "https://github.com/jeetbhatkar2004/HTTPProxyCache"
     ]
   ],
   "colors": {
