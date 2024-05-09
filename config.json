@@ -14,7 +14,7 @@
   "username": "you",
   "hostname": "JB", 
   "password": "cutie",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "repoLink": "https://github.com/jeetbhatkar2004/ShellPortfolio",
   "social": {
     "email": "jeetbhatkar@gmail.com",
     "github": "https://github.com/jeetbhatkar2004",
@@ -23,14 +23,14 @@
   "aboutGreeting": "Hi stranger. Welcome to WebShell.",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "DSA Visualizer",
+      "Education tool to play around w/ DSA",
+      "https://github.com/jeetbhatkar2004/Visualizer"
     ],
     [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "Modelling Options",
+      "C++ implementation of pricing european stock options   ",
+      "https://github.com/jeetbhatkar2004/OptionsPricing"
     ]
   ],
   "colors": {
